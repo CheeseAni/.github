@@ -11,7 +11,10 @@
 [字幕仓库](https://github.com/CheeseAni/CheeseAni-SubRepository) | [项目列表](https://github.com/orgs/CheeseAni/projects/1)
 
 ### 版权
-详见仓库中的许可证
+传播等详细授权详见仓库中的许可证
+
+### 教程
+[字幕制作教程](https://github.com/CheeseAni/Subtitle-Production-Tutorial)
 
 
 
